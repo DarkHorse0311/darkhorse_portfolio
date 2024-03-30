@@ -21,7 +21,7 @@ function App() {
         <Scroller />
         <Aboutme />
         <SkillSection />
-        <Portfolio />
+        {/* <Portfolio /> */}
         <ContactMe />
         <Footer />
       </div>

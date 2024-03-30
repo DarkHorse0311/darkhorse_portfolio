@@ -1,5 +1,5 @@
 import React from 'react';
-import portfolioImage from '../img/portfolio.jpeg';
+import portfolioImage from '../img/portfolio.jpg';
 import Typewriter from 'typewriter-effect';
 import Navbar from './Navbar';
 
@@ -19,15 +19,15 @@ export default function HeroSection() {
           style={{ backgroundColor: 'rgba(0, 0, 0, 0.6)' }}
         >
           <h1 className='text-white font-medium text-4xl md:text-6xl lg:text-8xl text-center'>
-            I am Adnan Hanif
+            I am Steve Jones
           </h1>
           <span className='text-white mt-5 md:mt-10 font text-xl md:text-2xl lg:text-5xl'>
             {' '}
             <Typewriter
               options={{
                 strings: [
-                  'Full-Stack Web Developer',
-                  'Front-end Focus',
+                  'Software Engineer',
+                  'Backend Focus',
                   'Enjoy solving problems ',
                 ],
                 autoStart: true,

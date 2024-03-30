@@ -32,7 +32,7 @@ export default function Footer() {
           {/* logo container  */}
           <div className='flex flex-col space-y-12 md:mb-8'>
             <img src={logowhite} alt='' className='lg:h-8 ' />
-            <div className='flex justify-center space-x-4 '>
+            {/* <div className='flex justify-center space-x-4 '>
               {iconsData.map((item, i) => {
                 return (
                   <a
@@ -49,7 +49,7 @@ export default function Footer() {
                   </a>
                 );
               })}
-            </div>
+            </div> */}
           </div>
           <div className='flex flex-row justify-around space-x-40 '>
             <div className='flex flex-col space-y-3 text-white '>

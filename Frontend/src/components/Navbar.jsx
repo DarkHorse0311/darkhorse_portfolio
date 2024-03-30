@@ -20,7 +20,7 @@ export default function Navbar() {
     { Home: 'home' },
     { About: 'about' },
     { Skills: 'skills' },
-    { Projects: 'projects' },
+    // { Projects: 'projects' },
   ];
 
   function handleClick() {

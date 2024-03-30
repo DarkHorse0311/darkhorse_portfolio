@@ -27,8 +27,8 @@ export default function Aboutme() {
           <div className=' md:w-full '>
             <AnimationOnScroll animateIn='animate__zoomIn' delay={200}>
               <p className='text-base md:text-xl  text-justify px-0 md:px-8 lg:px-0'>
-                I am a highly motivated and enthusiastic Full-Stack Web
-                Developer with a background in engineering, bringing a unique
+                I am a highly motivated and enthusiastic Software Engineer 
+                with a background in engineering, bringing a unique
                 perspective to the world of web development. Throughout my
                 education and working experience, I've been somehow connected
                 with technology, and always been passionate about building
