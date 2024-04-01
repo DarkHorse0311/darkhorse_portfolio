@@ -1,19 +1,19 @@
 # My Portfolio Website
-Welcome to my portfolio website! This project showcases my skills, projects, and experiences in a visually appealing and interactive manner. It's built using React and Tailwind CSS, along with other helpful libraries to enhance the user experience.
+This is my portfolio website. This site shows my skills, projects, and experience.
 
-[![Netlify Demo](https://img.shields.io/badge/Netlify-Open%20App-blueviolet)](https://react-tailwaind-portfolio-app.netlify.app/)
+[![Vercel Demo](https://img.shields.io/badge/Vercel-Open%20App-blueviolet)](https://darkhorse0311-vercel.app/)
 
 ## Installation
 
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/adhanif/React_Tailwind_Portfolio_APP.git
+   git clone https://github.com/DarkHorse0311/darkhorse_portfolio.git
    ```
 2. Navigate to the project directory:
    
    ```bash
-   cd React_Tailwind_Portfolio_APP
+   cd darkhorse_portfolio
    ```
 3. Install  dependencies:
 
