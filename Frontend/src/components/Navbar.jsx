@@ -58,7 +58,7 @@ export default function Navbar() {
                   navbarColor ? ' text-black  ' : ' text-white'
                 }`}
               >
-                Steve <span className='text-orange-500'>Jones</span>
+                <span className='text-orange-500'>DarkHorse0311</span>
               </h1>
             </div>
 
