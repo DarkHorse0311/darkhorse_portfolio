@@ -10,7 +10,7 @@ export default function Footer() {
     { Home: 'home' },
     { About: 'about' },
     { Skills: 'skills' },
-    { Projects: 'projects' },
+    // { Projects: 'projects' },
   ];
   const handleScrollSection = (id) => {
     const sectionElement = document.getElementById(id);

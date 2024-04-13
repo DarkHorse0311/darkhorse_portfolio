@@ -108,7 +108,7 @@ export default function Navbar() {
             </div>
             <div className='flex flex-row items-center '>
               <ToggleColorMode />
-
+              
               <button
                 className='hidden md:block py-2 px-4  text-white bg-red-900 hover:bg-orange-500  rounded-md text-center  hover:bg-brightRedLigh focus:outline-none hover:scale-110'
                 onClick={() => handleScrollSection('contact')}

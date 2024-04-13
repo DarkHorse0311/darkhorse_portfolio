@@ -19,14 +19,14 @@ export default function HeroSection() {
           style={{ backgroundColor: 'rgba(0, 0, 0, 0.6)' }}
         >
           <h1 className='text-white font-medium text-4xl md:text-6xl lg:text-8xl text-center'>
-            I am DarkHorse0311 on GitHub
+            I am Software Engineer
           </h1>
           <span className='text-white mt-5 md:mt-10 font text-xl md:text-2xl lg:text-5xl'>
             {' '}
             <Typewriter
               options={{
                 strings: [
-                  'Software Engineer',
+                  'Golang | Java Expert',
                   'Backend Focus',
                   'Enjoy solving problems ',
                 ],
